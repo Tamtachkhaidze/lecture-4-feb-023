@@ -1,0 +1,269 @@
+
+body {
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+.logo {
+    width: 10%;
+    padding-top: 30px;
+    margin-left: 30px;
+    vertical-align: baseline;
+    display: inline-block;
+}
+.navigation {
+    width: 80%;
+    margin-left: 0 auto;
+    display: inline-block;
+    vertical-align: baseline;
+
+}
+.navigation nav ul li {
+    padding-top: 30px;
+    padding-left: 180px;
+    padding-bottom: 39px;
+    vertical-align: baseline;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    display: inline-block;
+
+}
+.active {
+    color: #ee4036;
+}
+.c-1 {
+    width: 1175px;
+    margin: 0 auto;
+    margin-bottom: 124px;
+ }
+
+
+.c-2 {
+    margin-bottom: 70px;
+}
+.container{
+    width: 1175px;
+    margin: 0 auto
+}
+h2 {
+    margin: 0 auto;
+    padding-bottom: 14px;
+    font-family: roboto sans-serif;
+    size: 22px;
+    font-weight: 400;
+}
+
+ .card1, .card2 {
+     width: 570px;
+     height: 225px;
+     background-color: #f2f2f2;
+     display: inline-block;
+     vertical-align:text-top;
+     padding-top: 15px;
+     padding-left:18px;
+ }
+ .card1 {
+     margin-right: 29px;
+ }
+
+ p {
+     display: inline-block;
+     width: 350px;
+     height: 143px;
+     text-align: center;
+     font-family: roboto sans-serif;
+     size: 20px;
+     line-height: 1.4;
+     letter-spacing:1.1px;
+     font-weight: 400;
+     display: inline-block;
+ }
+
+h3 {
+    font-family: roboto sans-serif;
+    padding-left: 7px;
+    font-size:20px;
+    font-weight:400;
+    color: #3d58a6;
+    padding-bottom: 5px;
+}
+
+.box1 {
+    width: 570px;
+    height: 225px;
+    background-color: #f2f2f2;
+    margin: 25px 20px 10px 98px;
+    display: inline-block;
+}
+
+.textbox1 {
+    width: 290px;
+    font-size: 20px;
+    display: inline-block;
+    margin: 0px 40px 50px;
+    text-align: inherit;
+    color: #333333;
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+.hiding1 {
+    width: 275px;
+    color: #3D58A6;
+    font-size: 18px;
+    margin: 15px;
+    padding-top: 10px;
+}
+
+.box2 {
+    width: 570px;
+    height: 225px;
+    background-color: #f2f2f2;
+    margin: 25px 50px 5px 20px;
+    display: inline-block;
+    box-sizing: border-box;
+
+}
+
+.hiding2 {
+    width: 211px;
+    height: 17px;
+    color: #3d58a6;
+    font-size: 20px;
+    margin: 20px;
+    padding-top: 5px;
+}
+
+.textbox2 {
+    width: 275px;
+    display: inline-block;
+    text-align: inherit;
+    color: #333333;
+    margin: 0px 40px 50px;
+    font-size: 20px;
+    box-sizing: border-box;
+
+}
+
+.aplication {
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+
+
+.socialmedia {
+    width: 1175px;
+    margin: 0 auto;
+    padding-left: 80px;
+    display: inline-block;
+
+
+}
+.fb{
+    margin-right: 29px;
+
+}
+
+.number {
+    width: 40px;
+    height: 30px;
+    font-size: 30px;
+    color: #f2f2f2;
+    background-color: #3D58A6;
+    box-sizing: border-box;
+    margin: 25px;
+    padding: 3px;
+}
+
+.month {
+    width: 60px;
+    height: 19px;
+    font-size: 22px;
+    margin: 20px;
+
+}
+
+.news-title {
+    width: 699px;
+    height: 18px;
+    font-size: 20px;
+    margin: 20px;
+}
+
+
+.article1 {
+    box-sizing: border-box;
+    display: inline-flex;
+}
+
+.news-poto {
+    padding: 20px;
+    width: 10%;
+    display: inline-block;
+}
+
+.news-poto img {
+    width: 100%;
+}
+
+.news-text {
+    display: inline-block;
+    width: 90%;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 18px;
+}
+
+
+.contact-container {
+    width: 100%;
+    height: 500px;
+    margin-top: 57px;
+    display: inline-flex;
+    background-color: #e6e6e6;
+    padding: 20px;
+}
+
+.contact-container .aContact {
+    width: 20%;
+}
+
+.contact-container .aContactMap {
+    width: 70%;
+    margin-left: 60px;
+}
+
+.contact-container .title {
+    width: 100%;
+    color: #1b2b5c;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 50px 65px 0px;
+
+
+}
+
+.contact-container .nav {
+    width: 100%;
+    display: inline-block;
+    padding: 30px;
+}
+
+.contact-container .nav a {
+    width: 100%;
+    display: block;
+    font-style: normal;
+    text-decoration: none;
+    padding: 0px 5px 0px 5px;
+    color: #000000;
+    font-size: 18px;
+}
+
+.contact-container .aContactMap iframe {
+    width: 100%;
+    height: 100%;
+}
